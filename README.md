@@ -116,48 +116,11 @@ Giao diện đồ họa được thiết kế thân thiện với người dùng
 - **Khu vực hiển thị**: Chia thành 2 phần riêng biệt cho quá trình suy luận và kết quả
 - **Nút giải**: Thực hiện tính toán ngay lập tức
 
-
+### Ví dụ sử dụng
 ![Giao diện Tkinter - Test Case 1](images/case1.png)
 
 ![Giao diện Tkinter - Test Case 2](images/case2.png)
 
-## 🔍 Ví dụ sử dụng
-
-### Ví dụ 1: Tam giác vuông
-```
-Giả thiết: a=3, b=4, gamma=90
-Kết luận: c, S, R
-```
-**Kết quả:**
-- `c = 5.0`
-- `S = 6.0`
-- `R = 2.5`
-
-![Test Case 1 - Tam giác vuông](images/case1.png)
-
-### Ví dụ 2: Tam giác cân
-```
-Giả thiết: a=5, b=5, alpha=60
-Kết luận: c, S, R, r
-```
-**Kết quả:**
-- `c = 5.0`
-- `S = 10.825`
-- `R = 2.887`
-- `r = 1.443`
-
-![Test Case 2 - Tam giác cân](images/case2.png)
-
-### Ví dụ 3: Biểu thức phức tạp
-```
-Giả thiết: a=4, b=3, c=2*a, alpha=beta+10, beta=50
-Kết luận: c, alpha, gamma, S
-```
-**Kết quả:**
-- `c = 8.0`
-- `alpha = 60.0°`
-- `gamma = 70.0°`
-- `S = 12.0`
 
 ## 🛠️ Kiến trúc code
 
