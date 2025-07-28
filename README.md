@@ -116,11 +116,10 @@ Giao diện đồ họa được thiết kế thân thiện với người dùng
 - **Khu vực hiển thị**: Chia thành 2 phần riêng biệt cho quá trình suy luận và kết quả
 - **Nút giải**: Thực hiện tính toán ngay lập tức
 
+
 ![Giao diện Tkinter - Test Case 1](images/case1.png)
-*Giao diện khi giải bài toán tam giác vuông*
 
 ![Giao diện Tkinter - Test Case 2](images/case2.png)
-*Giao diện khi giải bài toán tam giác cân*
 
 ## 🔍 Ví dụ sử dụng
 
