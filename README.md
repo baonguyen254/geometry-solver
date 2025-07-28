@@ -109,6 +109,19 @@ c, alpha, gamma, S, R, r
 - **Read-only**: Hướng dẫn không thể chỉnh sửa
 - **Real-time**: Cập nhật kết quả ngay lập tức
 
+### Giao diện Tkinter
+Giao diện đồ họa được thiết kế thân thiện với người dùng, bao gồm:
+- **Phần hướng dẫn**: Hiển thị đầy đủ danh sách biến và ý nghĩa
+- **Ô nhập liệu**: Dễ dàng nhập giả thiết và kết luận
+- **Khu vực hiển thị**: Chia thành 2 phần riêng biệt cho quá trình suy luận và kết quả
+- **Nút giải**: Thực hiện tính toán ngay lập tức
+
+![Giao diện Tkinter - Test Case 1](images/case1.png)
+*Giao diện khi giải bài toán tam giác vuông*
+
+![Giao diện Tkinter - Test Case 2](images/case2.png)
+*Giao diện khi giải bài toán tam giác cân*
+
 ## 🔍 Ví dụ sử dụng
 
 ### Ví dụ 1: Tam giác vuông
@@ -121,6 +134,8 @@ Kết luận: c, S, R
 - `S = 6.0`
 - `R = 2.5`
 
+![Test Case 1 - Tam giác vuông](images/case1.png)
+
 ### Ví dụ 2: Tam giác cân
 ```
 Giả thiết: a=5, b=5, alpha=60
@@ -131,6 +146,8 @@ Kết luận: c, S, R, r
 - `S = 10.825`
 - `R = 2.887`
 - `r = 1.443`
+
+![Test Case 2 - Tam giác cân](images/case2.png)
 
 ### Ví dụ 3: Biểu thức phức tạp
 ```
